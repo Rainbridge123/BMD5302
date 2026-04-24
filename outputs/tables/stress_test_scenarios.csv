@@ -1,0 +1,19 @@
+scenario,portfolio_name,scenario_return,client_ready,gross_exposure,biggest_loss_contributor,biggest_hedge_sleeve
+Growth Shock,Equal Weight Benchmark,-0.032249477357217816,True,1.0,global developed equity,gold/real-asset hedge
+Growth Shock,GMVP no_short,0.0012811758706955199,True,1.0,global REIT,money market/cash
+Growth Shock,GMVP bounded_short,-0.0015015016932672797,False,1.2317529392439837,global investment-grade bond,global developed equity
+Growth Shock,Optimal Portfolio no_short,-0.045407998699806704,True,1.0000000000000007,u.s. equity,gold/real-asset hedge
+Growth Shock,Resampled Portfolio no_short,-0.04076390495553956,True,1.0,u.s. equity,gold/real-asset hedge
+Growth Shock,Optimal Portfolio bounded_short,-0.04218642195458919,False,1.399999991515492,u.s. equity,global REIT
+Rates Up,Equal Weight Benchmark,-0.023000402807828422,True,1.0,gold/real-asset hedge,money market/cash
+Rates Up,GMVP no_short,0.0012700959383255377,True,1.0,global REIT,money market/cash
+Rates Up,GMVP bounded_short,-0.007600937850121111,False,1.2317529392439837,global investment-grade bond,higher-yield bond
+Rates Up,Optimal Portfolio no_short,-0.024820388715509442,True,1.0000000000000007,u.s. equity,money market/cash
+Rates Up,Resampled Portfolio no_short,-0.02512114520957094,True,1.0,u.s. equity,money market/cash
+Rates Up,Optimal Portfolio bounded_short,-0.023571919828097167,False,1.399999991515492,u.s. equity,global REIT
+Inflation Resurgence,Equal Weight Benchmark,0.010737121973809268,True,1.0,global investment-grade bond,gold/real-asset hedge
+Inflation Resurgence,GMVP no_short,0.0008517568901604113,True,1.0,asia ex-japan equity,money market/cash
+Inflation Resurgence,GMVP bounded_short,-0.00518907139867357,False,1.2317529392439837,global investment-grade bond,singapore equity
+Inflation Resurgence,Optimal Portfolio no_short,0.0220947905403203,True,1.0000000000000007,money market/cash,gold/real-asset hedge
+Inflation Resurgence,Resampled Portfolio no_short,0.023347140870691018,True,1.0,asia ex-japan equity,gold/real-asset hedge
+Inflation Resurgence,Optimal Portfolio bounded_short,0.028038986797250042,False,1.399999991515492,global REIT,gold/real-asset hedge

@@ -1,0 +1,4 @@
+scenario,risk_preference_score,risk_capacity_score,final_risk_score,risk_category,final_target_vol,risk_aversion_A,investor_type
+Low Risk,1.0,1.0,1.0,Very Conservative,0.04,12.0,Conservative
+Balanced,2.6399999999999997,3.0000000000000004,2.6399999999999997,Balanced,0.09466666666666665,3.666666666666666,Balanced
+Growth,4.0,4.0,4.0,Aggressive,0.14,0.5,Growth

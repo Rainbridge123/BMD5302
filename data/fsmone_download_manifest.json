@@ -1,0 +1,62 @@
+{
+  "download_date": "2026-04-20",
+  "source": "FSMOne / Fundsupermart public pre-login REST endpoints",
+  "price_endpoint": "/fsm/rest/chart/get-bid-price-chart-data",
+  "selector_endpoint": "/fsm/rest/fund/get-fund-selector-table-info-with-multiple-list",
+  "search_endpoint": "/fsm/rest/general-search/find-fund-info-by-search-term",
+  "usd_to_sgd_assumption": 1.278,
+  "eur_to_sgd_assumption": 1.493,
+  "notes": "inception_date stores the first publicly retrievable monthly chart observation from the FSMOne pre-login chart endpoint. FSMOne's public pre-login APIs did not expose a reliable legal share-class inception date or ISIN for every selected fund.",
+  "funds": [
+    {
+      "fund_name": "LionGlobal SGD Money Market A Acc SGD",
+      "fsmone_code": "370209",
+      "sleeve": "money market/cash"
+    },
+    {
+      "fund_name": "United SGD Fund B Acc SGD",
+      "fsmone_code": "UOB132",
+      "sleeve": "short-duration bond"
+    },
+    {
+      "fund_name": "United High Grade Corporate Bond A Acc SGD",
+      "fsmone_code": "UOB099",
+      "sleeve": "global investment-grade bond"
+    },
+    {
+      "fund_name": "AB FCP I Global High Yield A2 SGD-H",
+      "fsmone_code": "ACM140",
+      "sleeve": "higher-yield bond"
+    },
+    {
+      "fund_name": "Amova Singapore Equity SGD (formerly Nikko AM)",
+      "fsmone_code": "370007",
+      "sleeve": "singapore equity"
+    },
+    {
+      "fund_name": "Infinity US 500 Stock Index SGD",
+      "fsmone_code": "370283",
+      "sleeve": "u.s. equity"
+    },
+    {
+      "fund_name": "Fidelity World A-ACC-SGD",
+      "fsmone_code": "FI3081",
+      "sleeve": "global developed equity"
+    },
+    {
+      "fund_name": "Schroder ISF Asian Opportunities A Acc SGD",
+      "fsmone_code": "SCD116",
+      "sleeve": "asia ex-japan equity"
+    },
+    {
+      "fund_name": "First Sentier Global Property Securities A Acc SGD",
+      "fsmone_code": "FST005",
+      "sleeve": "global REIT"
+    },
+    {
+      "fund_name": "Blackrock World Gold Fund A2 SGD-H",
+      "fsmone_code": "BGF006",
+      "sleeve": "gold/real-asset hedge"
+    }
+  ]
+}

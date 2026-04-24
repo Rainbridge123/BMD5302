@@ -1,0 +1,11 @@
+question_id,question,construct,selected_option,selected_text,raw_score,question_weight,normalized_construct_weight,construct_contribution
+q1,What is your planned investment horizon?,preference,D,More than 5 years,4,0.1,0.13333333333333333,0.5333333333333333
+q2,How would you describe your investment experience?,preference,C,Experience with mutual funds or balanced products,3,0.08,0.10666666666666667,0.32
+q3,What is your current financial situation?,capacity,C,Stable income with moderate savings,3,0.1,0.4,1.2000000000000002
+q4,What proportion of your total assets will be invested?,capacity,C,20%-50%,3,0.1,0.4,1.2000000000000002
+q5,"If your portfolio drops by 15% in a short period, what would you do?",preference,C,Hold and wait,3,0.15,0.19999999999999998,0.6
+q6,Which return-risk trade-off do you prefer?,preference,B,Moderate return with small fluctuations,2,0.12,0.16,0.32
+q7,What is the maximum loss you can tolerate?,preference,B,10%-20%,2,0.15,0.19999999999999998,0.39999999999999997
+q8,What is your primary investment goal?,preference,C,Balanced growth,3,0.08,0.10666666666666667,0.32
+q9,How stable is your income source?,capacity,C,Stable,3,0.05,0.2,0.6000000000000001
+q10,How do you react to market volatility?,preference,C,I can tolerate fluctuations,3,0.07,0.09333333333333334,0.28

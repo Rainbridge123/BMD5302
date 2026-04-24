@@ -1,0 +1,31 @@
+scenario,fund_name,weight,delta_vs_calibrated
+A - 10%,LionGlobal SGD Money Market A Acc SGD,0.0,-3.7542603985268505e-18
+A - 10%,United SGD Fund B Acc SGD,0.0,0.0
+A - 10%,United High Grade Corporate Bond A Acc SGD,7.129251027545354e-17,7.129251027545354e-17
+A - 10%,AB FCP I Global High Yield A2 SGD-H,5.467838550354509e-18,3.605351749307415e-18
+A - 10%,Amova Singapore Equity SGD (formerly Nikko AM),0.19013114281044505,-0.03748847764751301
+A - 10%,Infinity US 500 Stock Index SGD,0.653037302705311,0.026284215355669605
+A - 10%,Fidelity World A-ACC-SGD,0.0,-3.5550355544551565e-18
+A - 10%,Schroder ISF Asian Opportunities A Acc SGD,0.0,-3.2752899154329813e-18
+A - 10%,First Sentier Global Property Securities A Acc SGD,0.0,-2.8358968669823895e-17
+A - 10%,Blackrock World Gold Fund A2 SGD-H,0.1568315544842439,0.011204262291843348
+Calibrated A,LionGlobal SGD Money Market A Acc SGD,3.7542603985268505e-18,0.0
+Calibrated A,United SGD Fund B Acc SGD,0.0,0.0
+Calibrated A,United High Grade Corporate Bond A Acc SGD,0.0,0.0
+Calibrated A,AB FCP I Global High Yield A2 SGD-H,1.8624868010470943e-18,0.0
+Calibrated A,Amova Singapore Equity SGD (formerly Nikko AM),0.22761962045795806,0.0
+Calibrated A,Infinity US 500 Stock Index SGD,0.6267530873496414,0.0
+Calibrated A,Fidelity World A-ACC-SGD,3.5550355544551565e-18,0.0
+Calibrated A,Schroder ISF Asian Opportunities A Acc SGD,3.2752899154329813e-18,0.0
+Calibrated A,First Sentier Global Property Securities A Acc SGD,2.8358968669823895e-17,0.0
+Calibrated A,Blackrock World Gold Fund A2 SGD-H,0.14562729219240056,0.0
+A + 10%,LionGlobal SGD Money Market A Acc SGD,2.0744860113092673e-17,1.6990599714565823e-17
+A + 10%,United SGD Fund B Acc SGD,3.0063935864800017e-17,3.0063935864800017e-17
+A + 10%,United High Grade Corporate Bond A Acc SGD,0.0,0.0
+A + 10%,AB FCP I Global High Yield A2 SGD-H,9.097651698787012e-18,7.235164897739918e-18
+A + 10%,Amova Singapore Equity SGD (formerly Nikko AM),0.25779038889078754,0.03017076843282948
+A + 10%,Infinity US 500 Stock Index SGD,0.6054245674915433,-0.02132851985809814
+A + 10%,Fidelity World A-ACC-SGD,0.0,-3.5550355544551565e-18
+A + 10%,Schroder ISF Asian Opportunities A Acc SGD,0.0,-3.2752899154329813e-18
+A + 10%,First Sentier Global Property Securities A Acc SGD,0.0,-2.8358968669823895e-17
+A + 10%,Blackrock World Gold Fund A2 SGD-H,0.13678504361766933,-0.008842248574731232

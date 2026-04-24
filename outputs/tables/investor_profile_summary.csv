@@ -1,0 +1,2 @@
+total_raw_score,risk_preference_score,risk_capacity_score,target_vol_pref,target_vol_cap,final_target_vol,final_risk_score,risk_category,binding_construct,risk_aversion_A,risk_aversion_lower_A,risk_aversion_upper_A,calibrated_portfolio_volatility,calibration_gap,calibration_method,investor_type
+29.0,2.7733333333333334,3.0000000000000004,0.09911111111111112,0.10666666666666669,0.09911111111111112,2.7733333333333334,Balanced,preference,3.666666666666666,3.0,5.0,0.1297824712403961,0.03067136012928498,preference_band_capacity_adjusted_A,Balanced

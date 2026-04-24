@@ -1,0 +1,17 @@
+check,status,details
+All funds are final FSMOne funds,True,10/10 final
+Exactly 10 funds in metadata,True,10
+At least 60 aligned monthly observations,True,120
+No missing prices in aligned panel,True,0
+Covariance PSD status disclosed,True,repair_applied=False
+No-short frontier respects bounds,True,0 <= w_i <= 1
+Unconstrained-short frontier weights sum to one,True,sum(w)=1 with no asset-level caps
+Bounded-short frontier respects bounds,True,-0.20 <= w_i <= 0.35
+Bounded-short frontier respects gross limit,True,gross <= 1.40
+Optimal no-short weights sum to one,True,1.00000000
+Optimal unconstrained-short weights sum to one,True,1.00000000
+Optimal bounded-short weights sum to one,True,1.00000000
+Resampled no-short weights sum to one,True,1.00000000
+Calibrated A is monotonic across archetypes,True,Low Risk A > Balanced A > Growth A
+Fee treatment disclosed as NAV-based,True,Historical NAV/chart returns are used directly; annual_fee_pct is retained as disclosure only.
+Bounded-short sensitivity regimes respect configured caps,True,All conservative / baseline / liberal regimes satisfy their own caps.

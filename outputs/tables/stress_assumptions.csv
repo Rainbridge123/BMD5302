@@ -1,0 +1,4 @@
+scenario,trigger_definition,economic_proxy_interpretation,selected_month_count,first_selected_month,last_selected_month
+Growth Shock,Average monthly returns during months when Fidelity World A-ACC-SGD was in its worst decile (-4.75% or lower).,Proxy for a negative earnings-growth and risk-appetite state.,12,2016-06-30,2025-03-31
+Rates Up,Average monthly returns during months when United High Grade Corporate Bond A Acc SGD was in its worst decile (-1.16% or lower).,Proxy for a discount-rate shock that hurts duration-sensitive assets.,12,2020-03-31,2025-04-30
+Inflation Resurgence,Average monthly returns during the top 6 months ranked by high Blackrock World Gold Fund A2 SGD-H performance and weak United High Grade Corporate Bond A Acc SGD performance after the quartile intersection produced fewer than 6 observations.,Proxy for a state in which nominal bonds weaken while real-asset hedges strengthen.,6,2016-06-30,2025-04-30

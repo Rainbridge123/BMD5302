@@ -1,0 +1,5 @@
+decision_item,decision,reason
+Client-facing recommendation,Approve no-short optimum as the default client portfolio.,"The no-short portfolio is operationally feasible for a mass-market robo-adviser and avoids borrowing, leverage, and suitability complexity."
+Research appendix,Keep bounded-short optimum for analytical comparison only.,"The bounded-short solution can improve expected utility, but it is not appropriate as the default retail recommendation because it depends on leverage and short implementation."
+Current blocker status,Not submission-ready,10 fund entries are still marked as proxy instead of final FSMOne funds.
+Expected uplift from bounded-short,0.0041 utility points,The improvement is measurable but not large enough to justify making a leveraged solution the primary recommendation.
